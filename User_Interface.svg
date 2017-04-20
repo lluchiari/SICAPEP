@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="800"
+   height="600"
+   viewBox="0 0 800 600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="User_Interface.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="267.85714"
+     inkscape:cy="284.85896"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer10"
+     showgrid="false"
+     units="px"
+     width="800px"
+     inkscape:snap-grids="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.3622)"
+     style="display:none"
+     sodipodi:insensitive="true" />
+  <g
+     style="display:none"
+     inkscape:label="MenuVendas"
+     id="g4307"
+     inkscape:groupmode="layer"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:label="ToolBars"
+       id="g4309"
+       inkscape:groupmode="layer" />
+    <g
+       style="display:inline"
+       inkscape:label="StatusBars"
+       id="g4311"
+       inkscape:groupmode="layer">
+      <rect
+         y="564.26508"
+         x="0.69363296"
+         height="35.469868"
+         width="802.61273"
+         id="rect4313"
+         style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1.24441898;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.97767617, 4.97767617;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="CentralWidget"
+       id="g4315"
+       inkscape:groupmode="layer">
+      <g
+         inkscape:label="CentralWidget_Nada2"
+         id="g4317"
+         inkscape:groupmode="layer">
+        <flowRoot
+           transform="translate(7.1428571,14.285714)"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot4319"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4321"><rect
+               y="381.42856"
+               x="77.14286"
+               height="72.85714"
+               width="165.71428"
+               id="rect4323" /></flowRegion><flowPara
+             id="flowPara4325">Nada2</flowPara></flowRoot>        <rect
+           y="350.71429"
+           x="52.142857"
+           height="115.71429"
+           width="201.42857"
+           id="rect4327"
+           style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         style="display:inline"
+         inkscape:label="CentralWidget_Nada1"
+         id="g4329"
+         inkscape:groupmode="layer">
+        <flowRoot
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot4331"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4333"><rect
+               y="207.14285"
+               x="611.42859"
+               height="71.428581"
+               width="150.00003"
+               id="rect4335" /></flowRegion><flowPara
+             id="flowPara4337">Nada1</flowPara></flowRoot>        <rect
+           y="169.28572"
+           x="557.85712"
+           height="115.71429"
+           width="201.42857"
+           id="rect4339"
+           style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <g
+         style="display:inline"
+         inkscape:label="CentralWidget_HistóricoVenda"
+         id="g4341"
+         inkscape:groupmode="layer">
+        <rect
+           y="167.85715"
+           x="309.28571"
+           height="115.71429"
+           width="201.42857"
+           id="rect4343"
+           style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           transform="translate(2.8571428,-2.8571428)"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot4345"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4347"><rect
+               y="200"
+               x="341.42856"
+               height="61.428566"
+               width="137.14287"
+               id="rect4349" /></flowRegion><flowPara
+             id="flowPara4351">Histórico de Vendas</flowPara></flowRoot>      </g>
+      <g
+         style="display:inline"
+         inkscape:label="CentralWidget_NovaVendas"
+         id="g4353"
+         inkscape:groupmode="layer">
+        <rect
+           y="168.57143"
+           x="51.42857"
+           height="115.71429"
+           width="201.42857"
+           id="rect4355"
+           style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1" />
+        <flowRoot
+           transform="translate(-10,11.428571)"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot4357"
+           xml:space="preserve"><flowRegion
+             id="flowRegion4359"><rect
+               y="197.14285"
+               x="87.14286"
+               height="65.714279"
+               width="157.14285"
+               id="rect4361" /></flowRegion><flowPara
+             id="flowPara4363">Nova Venda</flowPara></flowRoot>      </g>
+      <rect
+         y="355"
+         x="307.85715"
+         height="115.71429"
+         width="201.42857"
+         id="rect4365"
+         style="fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1" />
+      <rect
+         y="352.14285"
+         x="560.71429"
+         height="115.71429"
+         width="201.42857"
+         id="rect4367"
+         style="fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       style="display:inline"
+       inkscape:label="MenuBar"
+       id="g4369"
+       inkscape:groupmode="layer">
+      <rect
+         y="-3.165818e-007"
+         x="-1.4285715"
+         height="51.42857"
+         width="805.71429"
+         id="rect4371"
+         style="fill:#000000;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1" />
+      <flowRoot
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4373"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4375"><rect
+             y="11.428571"
+             x="12.857142"
+             height="35.714283"
+             width="281.42859"
+             id="rect4377" /></flowRegion><flowPara
+           id="flowPara4379">SICAPEP - Vendas</flowPara></flowRoot>      <rect
+         y="52.407925"
+         x="1.5507809"
+         height="35.469868"
+         width="802.61273"
+         id="rect4381"
+         style="fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1.24441898;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.97767617, 4.97767617;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4415"
+     inkscape:label="MenuProdutos"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:groupmode="layer"
+       id="g4417"
+       inkscape:label="ToolBars" />
+    <g
+       inkscape:groupmode="layer"
+       id="g4419"
+       inkscape:label="StatusBars"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1.24441898;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.97767617, 4.97767617;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4421"
+         width="802.61273"
+         height="35.469868"
+         x="0.69363296"
+         y="564.26508" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4423"
+       inkscape:label="CentralWidget"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         id="g4425"
+         inkscape:label="CentralWidget_Nada2">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4427"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(7.1428571,14.285714)"><flowRegion
+             id="flowRegion4429"><rect
+               id="rect4431"
+               width="165.71428"
+               height="72.85714"
+               x="77.14286"
+               y="381.42856" /></flowRegion><flowPara
+             id="flowPara4433">Nada2</flowPara></flowRoot>        <rect
+           style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4435"
+           width="201.42857"
+           height="115.71429"
+           x="52.142857"
+           y="350.71429" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g4437"
+         inkscape:label="CentralWidget_Nada1"
+         style="display:inline">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4439"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+             id="flowRegion4441"><rect
+               id="rect4443"
+               width="150.00003"
+               height="71.428581"
+               x="611.42859"
+               y="207.14285" /></flowRegion><flowPara
+             id="flowPara4445">Nada1</flowPara></flowRoot>        <rect
+           style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4447"
+           width="201.42857"
+           height="115.71429"
+           x="557.85712"
+           y="169.28572" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g4449"
+         inkscape:label="CentralWidget_ModificarProduto"
+         style="display:inline">
+        <rect
+           style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4451"
+           width="201.42857"
+           height="115.71429"
+           x="309.28571"
+           y="167.85715" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4453"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(2.8571428,-2.8571428)"><flowRegion
+             id="flowRegion4455"><rect
+               id="rect4457"
+               width="137.14287"
+               height="61.428566"
+               x="341.42856"
+               y="200" /></flowRegion><flowPara
+             id="flowPara4459"><flowSpan
+   style="text-align:center;text-anchor:middle"
+   id="flowSpan4491">Modificar</flowSpan> Produto</flowPara></flowRoot>      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="g4461"
+         inkscape:label="CentralWidget_CadastrarProduto"
+         style="display:inline">
+        <rect
+           style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4463"
+           width="201.42857"
+           height="115.71429"
+           x="51.42857"
+           y="168.57143" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4465"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-12,1.428571)"><flowRegion
+             id="flowRegion4467"><rect
+               id="rect4469"
+               width="157.14285"
+               height="65.714279"
+               x="87.14286"
+               y="197.14285"
+               style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+             id="flowPara4471">Cadastrar Produto</flowPara></flowRoot>      </g>
+      <rect
+         style="fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4473"
+         width="201.42857"
+         height="115.71429"
+         x="307.85715"
+         y="355" />
+      <rect
+         style="fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4475"
+         width="201.42857"
+         height="115.71429"
+         x="560.71429"
+         y="352.14285" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="g4477"
+       inkscape:label="MenuBar"
+       style="display:inline">
+      <rect
+         style="fill:#000000;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4479"
+         width="805.71429"
+         height="51.42857"
+         x="-1.4285715"
+         y="-3.165818e-007" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4481"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+           id="flowRegion4483"><rect
+             id="rect4485"
+             width="281.42859"
+             height="35.714283"
+             x="12.857142"
+             y="11.428571" /></flowRegion><flowPara
+           id="flowPara4487">SICAPEP - Produtos</flowPara></flowRoot>      <rect
+         style="fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1.24441898;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.97767617, 4.97767617;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4489"
+         width="802.61273"
+         height="35.469868"
+         x="1.5507809"
+         y="52.407925" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="MainMenu"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <g
+       inkscape:groupmode="layer"
+       id="layer3"
+       inkscape:label="ToolBars"
+       style="display:inline">
+      <rect
+         style="fill:#808080;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4389"
+         width="112.85715"
+         height="34.285717"
+         x="3.1428571"
+         y="53.42857" />
+      <g
+         id="g4411">
+        <rect
+           y="53.42857"
+           x="118.42857"
+           height="34.285717"
+           width="112.85715"
+           id="rect4389-0"
+           style="fill:#808080;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           y="52.407925"
+           x="1.5507809"
+           height="35.469868"
+           width="802.61273"
+           id="rect4150"
+           style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1.24441898;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.97767617, 4.97767617;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="StatusBars"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1.24441898;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.97767617, 4.97767617;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4150-1"
+         width="802.61273"
+         height="35.469868"
+         x="0.69363296"
+         y="564.26508" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="CentralWidget"
+       style="display:inline">
+      <g
+         inkscape:groupmode="layer"
+         id="layer9"
+         inkscape:label="CentralWidget_Usuários">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4232"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(7.1428571,14.285714)"><flowRegion
+             id="flowRegion4234"><rect
+               id="rect4236"
+               width="165.71428"
+               height="72.85714"
+               x="77.14286"
+               y="381.42856" /></flowRegion><flowPara
+             id="flowPara4238">USUÁRIOS</flowPara></flowRoot>        <rect
+           style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4152-4"
+           width="201.42857"
+           height="115.71429"
+           x="52.142857"
+           y="350.71429" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer8"
+         inkscape:label="CentralWidget_Contas"
+         style="display:inline">
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4224"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+             id="flowRegion4226"><rect
+               id="rect4228"
+               width="150.00003"
+               height="71.428581"
+               x="611.42859"
+               y="207.14285" /></flowRegion><flowPara
+             id="flowPara4230">CONTAS</flowPara></flowRoot>        <rect
+           style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4152-2"
+           width="201.42857"
+           height="115.71429"
+           x="557.85712"
+           y="169.28572" />
+      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer7"
+         inkscape:label="CentralWidget_Produtos"
+         style="display:inline">
+        <rect
+           style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4152-8"
+           width="201.42857"
+           height="115.71429"
+           x="309.28571"
+           y="167.85715" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4216"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(-2.8571429,8.5714286)"><flowRegion
+             id="flowRegion4218"><rect
+               id="rect4220"
+               width="148.57146"
+               height="47.142849"
+               x="341.42856"
+               y="200" /></flowRegion><flowPara
+             id="flowPara4222">PRODUTOS</flowPara></flowRoot>      </g>
+      <g
+         inkscape:groupmode="layer"
+         id="layer6"
+         inkscape:label="CentralWidget_Vendas"
+         style="display:inline">
+        <rect
+           style="display:inline;fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect4152"
+           width="201.42857"
+           height="115.71429"
+           x="51.42857"
+           y="168.57143" />
+        <flowRoot
+           xml:space="preserve"
+           id="flowRoot4208"
+           style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           transform="translate(10,11.428571)"><flowRegion
+             id="flowRegion4210"><rect
+               id="rect4212"
+               width="130"
+               height="64.285713"
+               x="87.14286"
+               y="197.14285" /></flowRegion><flowPara
+             id="flowPara4214">VENDAS</flowPara></flowRoot>      </g>
+      <rect
+         style="fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4152-0"
+         width="201.42857"
+         height="115.71429"
+         x="307.85715"
+         y="355" />
+      <rect
+         style="fill:#b3b3b3;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4152-6"
+         width="201.42857"
+         height="115.71429"
+         x="560.71429"
+         y="352.14285" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer2"
+       inkscape:label="MenuBar"
+       style="display:inline">
+      <rect
+         style="fill:#000000;fill-opacity:0.23137255;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4, 4;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4140"
+         width="805.71429"
+         height="51.42857"
+         x="-1.4285715"
+         y="-3.165818e-007" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4142"
+         style="font-style:normal;font-weight:normal;font-size:25px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+           id="flowRegion4144"><rect
+             id="rect4146"
+             width="201.42857"
+             height="30"
+             x="12.857142"
+             y="11.428571" /></flowRegion><flowPara
+           id="flowPara4148">SICAPEP</flowPara></flowRoot>    </g>
+  </g>
+</svg>
