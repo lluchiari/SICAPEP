@@ -27,8 +27,10 @@ DEFINES += QT_DEPRECATED_WARNINGS
 INCLUDEPATH *= . ./src ./include
 
 SOURCES += src/main.cpp\
-           src/sicapep.cpp
+           src/sicapep.cpp \
+    src/controller.cpp
 
-HEADERS  += include/sicapep.h
+HEADERS  += include/sicapep.h \
+    src/controller.h
 
 FORMS    += sicapep.ui

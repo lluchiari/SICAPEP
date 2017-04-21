@@ -16,6 +16,11 @@ public:
     explicit SiCApep(QWidget *parent = 0);
     ~SiCApep();
 
+private slots:
+    void on_pushButton_5_clicked();
+
+    void on_pushButtonVendas_clicked();
+
 private:
     Ui::SiCApep *ui;
     QSqlRelationalTableModel *model;
