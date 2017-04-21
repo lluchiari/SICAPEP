@@ -31,6 +31,6 @@ SOURCES += src/main.cpp\
     src/controller.cpp
 
 HEADERS  += include/sicapep.h \
-    src/controller.h
+    include/controller.h
 
 FORMS    += sicapep.ui
