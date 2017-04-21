@@ -2,9 +2,7 @@
 #include "ui_sicapep.h"
 #include "controller.h"
 
-SiCApep::SiCApep(QWidget *parent) :
-    QMainWindow(parent),
-    ui(new Ui::SiCApep)
+SiCApep::SiCApep(QWidget *parent) : QMainWindow(parent), ui(new Ui::SiCApep)
 {
     ui->setupUi(this);
 }

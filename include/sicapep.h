@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include <QtSql>
+#include "sicapep_vendas.h"
 
 namespace Ui {
 class SiCApep;

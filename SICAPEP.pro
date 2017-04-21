@@ -28,9 +28,14 @@ INCLUDEPATH *= . ./src ./include
 
 SOURCES += src/main.cpp\
            src/sicapep.cpp \
-    src/controller.cpp
+    src/controller.cpp \
+    src/sicapep_vendas.cpp \
+    src/model.cpp
 
 HEADERS  += include/sicapep.h \
-    include/controller.h
+    include/controller.h \
+    include/sicapep_vendas.h \
+    include/model.h
 
-FORMS    += sicapep.ui
+FORMS    += sicapep.ui \
+    sicapep_vendas.ui
