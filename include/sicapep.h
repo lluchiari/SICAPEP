@@ -2,7 +2,6 @@
 #define SICAPEP_H
 
 #include <QMainWindow>
-#include <QtSql>
 #include "sicapep_vendas.h"
 
 namespace Ui {
@@ -24,7 +23,6 @@ private slots:
 
 private:
     Ui::SiCApep *ui;
-    QSqlRelationalTableModel *model;
 };
 
 #endif // SICAPEP_H

@@ -4,6 +4,7 @@
 
 SiCApep::SiCApep(QWidget *parent) : QMainWindow(parent), ui(new Ui::SiCApep)
 {
+    // Configures the GUI auto-generated from the form (.ui)
     ui->setupUi(this);
 }
 
@@ -14,6 +15,6 @@ SiCApep::~SiCApep()
 
 void SiCApep::on_pushButtonVendas_clicked()
 {
-    //load the
+    //this->ui->stackedWidget->
 
 }
