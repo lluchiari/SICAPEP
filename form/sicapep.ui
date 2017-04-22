@@ -34,7 +34,7 @@
      <number>30</number>
     </property>
     <property name="topMargin">
-     <number>30</number>
+     <number>3</number>
     </property>
     <property name="rightMargin">
      <number>30</number>
@@ -59,7 +59,7 @@
        </font>
       </property>
       <property name="currentIndex">
-       <number>0</number>
+       <number>3</number>
       </property>
       <widget class="QWidget" name="mainPage">
        <layout class="QGridLayout" name="gridLayoutMainPage" rowstretch="0,0">
@@ -67,7 +67,7 @@
          <number>7</number>
         </property>
         <property name="topMargin">
-         <number>7</number>
+         <number>14</number>
         </property>
         <property name="rightMargin">
          <number>7</number>
@@ -100,7 +100,7 @@
            <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mostra o menu de vendas&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
           </property>
           <property name="text">
-           <string extracomment="Mostra o menu de vendas">VENDAS</string>
+           <string extracomment="Mostra o menu de vendas">Vendas</string>
           </property>
           <property name="flat">
            <bool>false</bool>
@@ -127,7 +127,7 @@
            <string extracomment="Abre menu de Produtos">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mostra o meno de Produtos&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
           </property>
           <property name="text">
-           <string>PRODUTOS</string>
+           <string>Produtos</string>
           </property>
           <property name="autoDefault">
            <bool>false</bool>
@@ -151,7 +151,7 @@
            </font>
           </property>
           <property name="text">
-           <string>CONTAS</string>
+           <string>Contas</string>
           </property>
          </widget>
         </item>
@@ -172,13 +172,19 @@
            </font>
           </property>
           <property name="text">
-           <string>USUÁRIOS</string>
+           <string>Usuário</string>
           </property>
          </widget>
         </item>
        </layout>
       </widget>
-      <widget class="QWidget" name="produtosPage">
+      <widget class="QWidget" name="vendaPage">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
        <layout class="QGridLayout" name="gridLayoutProdutosPage">
         <property name="leftMargin">
          <number>7</number>
@@ -195,6 +201,73 @@
         <property name="spacing">
          <number>40</number>
         </property>
+        <item row="1" column="1">
+         <widget class="QPushButton" name="pushButtonVendaMenuInicial">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <pointsize>14</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="text">
+           <string>Menu Inicial</string>
+          </property>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QPushButton" name="pushButtonRelatorioVendas">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <pointsize>14</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="text">
+           <string>Relatório de Vendas</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="1">
+         <widget class="QPushButton" name="pushButtonHistoricoVendas">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <family>Arial</family>
+            <pointsize>14</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="toolTip">
+           <string extracomment="Abre menu de Historico de Vendas">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mostra o meno de Produtos&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          </property>
+          <property name="text">
+           <string>Menu de Vendas</string>
+          </property>
+          <property name="autoDefault">
+           <bool>false</bool>
+          </property>
+         </widget>
+        </item>
         <item row="0" column="0">
          <widget class="QPushButton" name="pushButtonNovaVenda">
           <property name="sizePolicy">
@@ -224,8 +297,33 @@
           </property>
          </widget>
         </item>
+       </layout>
+      </widget>
+      <widget class="QWidget" name="produtosPage">
+       <property name="sizePolicy">
+        <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+         <horstretch>0</horstretch>
+         <verstretch>0</verstretch>
+        </sizepolicy>
+       </property>
+       <layout class="QGridLayout" name="gridLayout">
+        <property name="leftMargin">
+         <number>7</number>
+        </property>
+        <property name="topMargin">
+         <number>7</number>
+        </property>
+        <property name="rightMargin">
+         <number>7</number>
+        </property>
+        <property name="bottomMargin">
+         <number>7</number>
+        </property>
+        <property name="spacing">
+         <number>40</number>
+        </property>
         <item row="0" column="1">
-         <widget class="QPushButton" name="pushButtonHistoricoDeVendas">
+         <widget class="QPushButton" name="pushButtonModificarProduto">
           <property name="sizePolicy">
            <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
             <horstretch>0</horstretch>
@@ -234,26 +332,59 @@
           </property>
           <property name="font">
            <font>
-            <family>Arial</family>
             <pointsize>14</pointsize>
             <weight>75</weight>
             <bold>true</bold>
            </font>
           </property>
-          <property name="toolTip">
-           <string extracomment="Abre menu de Historico de Vendas">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Mostra o meno de Produtos&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+          <property name="text">
+           <string>Modificar Produto</string>
+          </property>
+         </widget>
+        </item>
+        <item row="0" column="0">
+         <widget class="QPushButton" name="pushButtonCadastrarProduto">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <pointsize>14</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
           </property>
           <property name="text">
-           <string>Menu de Vendas</string>
+           <string>Cadastrar Produto</string>
           </property>
-          <property name="autoDefault">
-           <bool>false</bool>
+         </widget>
+        </item>
+        <item row="1" column="0">
+         <widget class="QPushButton" name="pushButtonProdutosMenuInicial">
+          <property name="sizePolicy">
+           <sizepolicy hsizetype="Expanding" vsizetype="Expanding">
+            <horstretch>0</horstretch>
+            <verstretch>0</verstretch>
+           </sizepolicy>
+          </property>
+          <property name="font">
+           <font>
+            <pointsize>14</pointsize>
+            <weight>75</weight>
+            <bold>true</bold>
+           </font>
+          </property>
+          <property name="text">
+           <string>Menu Inicial</string>
           </property>
          </widget>
         </item>
        </layout>
       </widget>
-      <widget class="QWidget" name="vendasPage"/>
+      <widget class="QWidget" name="novaVendaPage"/>
      </widget>
     </item>
    </layout>

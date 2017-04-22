@@ -20,6 +20,8 @@ public:
 private slots:
     void on_pushButtonVendas_clicked();
     void on_pushButtonProdutos_clicked();
+    void on_pushButtonVendaMenuInicial_clicked();
+    void on_pushButtonProdutosMenuInicial_clicked();
 
 private:
     Ui::SiCApep *ui;

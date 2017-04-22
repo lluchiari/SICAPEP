@@ -13,12 +13,23 @@ SiCApep::~SiCApep()
 
 void SiCApep::on_pushButtonVendas_clicked()
 {
-    //this->ui->stackedWidget->
+    this->ui->stackedWidget->setCurrentIndex(1);
 
 }
 
 // When pressed the "Produtos Button"
 void SiCApep::on_pushButtonProdutos_clicked()
 {
-    this->ui->stackedWidget->setCurrentIndex(1);
+    this->ui->stackedWidget->setCurrentIndex(2);
+}
+
+void SiCApep::on_pushButtonVendaMenuInicial_clicked()
+{
+    this->ui->stackedWidget->setCurrentIndex(0);
+}
+
+
+void SiCApep::on_pushButtonProdutosMenuInicial_clicked()
+{
+    this->ui->stackedWidget->setCurrentIndex(0);
 }
