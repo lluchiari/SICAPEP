@@ -2,11 +2,12 @@
 #define SICAPEP_H
 
 #include <QMainWindow>
+#include <QDebug>
+#include <ostream>
 #include "sicapep_vendas.h"
+#include "ui_sicapep.h"
+//#include "controller.h"
 
-namespace Ui {
-class SiCApep;
-}
 
 class SiCApep : public QMainWindow
 {
@@ -17,9 +18,8 @@ public:
     ~SiCApep();
 
 private slots:
-    void on_pushButton_5_clicked();
-
     void on_pushButtonVendas_clicked();
+    void on_pushButtonProdutos_clicked();
 
 private:
     Ui::SiCApep *ui;

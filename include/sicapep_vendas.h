@@ -2,11 +2,12 @@
 #define SICAPEP_VENDAS_H
 
 #include <QMainWindow>
+#include "ui_sicapep_vendas.h"
 #include "sicapep.h"
 
-namespace Ui_Vendas {
-class SiCApepVendas;
-}
+//namespace Ui_Vendas {
+//class SiCApepVendas;
+//}
 
 class SiCApepVendas : public QMainWindow
 {
@@ -19,7 +20,7 @@ public:
 private slots:
 
 private:
-    Ui_Vendas::SiCApepVendas *ui;
+    Ui::SiCApepVendas *ui;
 };
 
 #endif // SICAPEP_H

@@ -3,13 +3,12 @@
 
 #include <QObject>
 #include "sicapep.h"
-#include "sicapep.h"
 #include "model.h"
 
 class Controller
 {
 public:
-    Controller(SiCApep *, Model *);
+    Controller(SiCApep *view, Model *model);
     ~Controller();
 private:
     SiCApep *_view;

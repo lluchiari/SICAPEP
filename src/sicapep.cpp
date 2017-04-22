@@ -1,6 +1,4 @@
 #include "sicapep.h"
-#include "ui_sicapep.h"
-#include "controller.h"
 
 SiCApep::SiCApep(QWidget *parent) : QMainWindow(parent), ui(new Ui::SiCApep)
 {
@@ -17,4 +15,10 @@ void SiCApep::on_pushButtonVendas_clicked()
 {
     //this->ui->stackedWidget->
 
+}
+
+// When pressed the "Produtos Button"
+void SiCApep::on_pushButtonProdutos_clicked()
+{
+    this->ui->stackedWidget->setCurrentIndex(1);
 }
